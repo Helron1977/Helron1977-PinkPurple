@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Temp\\RollandSainty\\core.jar",
+        "c:\\Users\\Roland\\Desktop\\processing-3.5.4\\core\\library\\core.jar"
+    ]
+}
